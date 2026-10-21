@@ -1,0 +1,13 @@
+.agents/
+.codex/
+.vscode/
+
+__pycache__/
+*.py[cod]
+
+MUJOCO_LOG.TXT
+
+/motion_tracking/beyondmimic/logs/
+/motion_tracking/latentmimic/logs/
+*.mat
+*.pdf
